@@ -15,3 +15,9 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+/input_a
+/input_b
+/test_a
+/test_b
+/.idea
